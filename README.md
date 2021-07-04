@@ -1,4 +1,4 @@
-# UFO
+# UFO Sightings
 
 ![ufoBanner2](https://user-images.githubusercontent.com/81998045/124376387-c9822a00-dc74-11eb-8e1d-f5520c2fe98a.png)
 
